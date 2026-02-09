@@ -151,7 +151,7 @@ python scripts/comprehensive_test.py
 ```
 university_support_system/
 ├── agents/
-│   ├── main_orchestrator.py      # Ana koordinatör
+│   ├── main_orchestrator.py       # Ana koordinatör
 │   ├── base_agent.py              # Temel agent sınıfı
 │   └── departments/               # Departman agentları
 │       ├── it/
@@ -163,10 +163,10 @@ university_support_system/
 ├── rag/                           # RAG motoru
 ├── llm/                           # LLM provider'lar
 ├── database/                      # Veritabanı modelleri ve bağlantı
-├── task_queue_module/              # Queue yönetimi
-├── config/                         # Konfigürasyon
-├── data/                           # RAG dokümanları
-└── scripts/                        # Test scriptleri
+├── task_queue_module/             # Queue yönetimi
+├── config/                        # Konfigürasyon
+├── data/                          # RAG dokümanları
+└── scripts/                       # Test scriptleri
 ```
 
 ##  Özellikler Detayı
