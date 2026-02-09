@@ -1,0 +1,41 @@
+IT Departmanı - Bilgi İşlem Prosedürleri
+
+Şifre Sıfırlama Prosedürü
+Üniversite kullanıcıları şifrelerini sıfırlamak için aşağıdaki yöntemleri kullanabilir:
+1. Self-servis portal: sifre.universite.edu.tr adresinden öğrenci/personel numarası ile giriş yapılarak şifre sıfırlanabilir.
+2. Cep telefonu doğrulama: Sistemde kayıtlı cep telefonuna gelen SMS kodu ile doğrulama yapılır.
+3. IT Destek Hattı: 1234 numaralı dahili aranarak kimlik doğrulaması sonrası şifre sıfırlanabilir.
+
+Şifre Politikası
+- Minimum 8 karakter uzunluğunda olmalıdır
+- En az bir büyük harf, bir küçük harf ve bir rakam içermelidir
+- Son 5 şifre tekrar kullanılamaz
+- Şifreler 90 günde bir değiştirilmelidir
+
+VPN Bağlantı Rehberi
+Uzaktan çalışma için VPN bağlantısı gereklidir.
+Sunucu adresi: vpn.universite.edu.tr
+Desteklenen istemciler: Cisco AnyConnect, OpenVPN
+Bağlantı portu: 443
+
+VPN Sorun Giderme
+1. İnternet bağlantınızı kontrol edin
+2. VPN istemcisini güncelleyin
+3. Güvenlik duvarı ayarlarını kontrol edin
+4. Farklı sunucu deneyin (vpn2.universite.edu.tr)
+
+E-posta Yapılandırması
+Webmail: mail.universite.edu.tr
+IMAP Sunucu: imap.universite.edu.tr (Port: 993, SSL)
+SMTP Sunucu: smtp.universite.edu.tr (Port: 587, TLS)
+
+Hesap Kilitleme Politikası
+- 5 başarısız giriş denemesi sonrası hesap 15 dakika kilitlenir
+- 10 başarısız deneme sonrası kalıcı kilitleme uygulanır
+- Kalıcı kilit IT Destek tarafından açılır
+
+IT Destek İletişim
+Telefon: 1234 (dahili)
+E-posta: it-destek@universite.edu.tr
+Çalışma saatleri: Hafta içi 08:00-18:00
+Acil durumlar için: 7/24 nöbetçi destek

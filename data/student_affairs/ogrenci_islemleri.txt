@@ -1,0 +1,46 @@
+Öğrenci İşleri - İşlem Rehberi
+
+Ders Kaydı
+Ders kaydı her dönem başında belirlenen tarihlerde yapılır.
+Ders kaydı için OBS (Öğrenci Bilgi Sistemi) kullanılır: obs.universite.edu.tr
+
+Ders Kaydı Şartları
+1. Harç borcunun bulunmaması
+2. Kayıt dondurma durumunun olmaması
+3. Disiplin cezası nedeniyle kayıt yasağı bulunmaması
+
+Kredi Sınırları
+- GANO 2.00 altı: Maksimum 24 kredi
+- GANO 2.00-2.49: Maksimum 30 kredi
+- GANO 2.50-2.99: Maksimum 33 kredi
+- GANO 3.00 ve üzeri: Maksimum 36 kredi
+
+Öğrenci Belgesi
+Öğrenci belgesi şu yöntemlerle alınabilir:
+1. E-Devlet: turkiye.gov.tr → YÖK → Öğrenci Belgesi
+2. OBS: obs.universite.edu.tr → Belgelerim → Öğrenci Belgesi
+3. Öğrenci İşleri: Kimlik ibrazı ile (1-2 iş günü)
+
+Tüm belgeler karekodlu ve resmi geçerliliğe sahiptir.
+
+Transkript (Not Dökümü)
+Transkript alma yöntemleri:
+1. OBS üzerinden dijital transkript
+2. Öğrenci İşleri'nden mühürlü transkript (3-5 iş günü)
+
+Kayıt Dondurma
+Kayıt dondurma talepleri dönem başından itibaren en geç 4 hafta içinde yapılmalıdır.
+Gerekli belgeler:
+- Sağlık raporu (sağlık nedeniyle)
+- Askerlik belgesi (askerlik nedeniyle)
+- Dilekçe ve destekleyici belgeler (diğer nedenler)
+
+Mezuniyet İşlemleri
+Mezuniyet için gerekli kredi tamamlandığında otomatik olarak mezuniyet işlemi başlar.
+Diploma teslimi mezuniyet töreninde veya Öğrenci İşleri'nden yapılır.
+
+İletişim
+Öğrenci İşleri Daire Başkanlığı
+Telefon: 2345 (dahili)
+E-posta: ogrenci@universite.edu.tr
+Çalışma Saatleri: Hafta içi 09:00-17:00
